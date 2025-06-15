@@ -4,10 +4,10 @@
 
 ---
 
-![Netflix Clone Preview](./assets/images/Homepage.png)
-![Netflix Clone Preview](./assets/images/MainMenu.png)
-![Netflix Clone Preview](./assets/images/FAQs.png)
-![Netflix Clone Preview](./assets/images/Footer.png)
+![Homepage](./assets/images/Homepage.png)
+![Main menu](./assets/images/MainMenu.png)
+![FAQS](./assets/images/FAQs.png)
+![Footer](./assets/images/Footer.png)
 
 
 ---
