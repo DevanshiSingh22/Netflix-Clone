@@ -38,7 +38,7 @@ Netflix’s branding and layout are both iconic and technically interesting. Thi
 ## 📬 Let’s Connect
 
 📧 malikdevanshi22@gmail.com  
-🔗 [GitHub](https://github.com/yourusername) 
+🔗 [GitHub](https://github.com/DevanshiSingh22) 
 
 ⭐ Don’t forget to **star** this repository if you found it useful!
 
