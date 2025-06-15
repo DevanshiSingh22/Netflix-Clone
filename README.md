@@ -4,10 +4,10 @@
 
 ---
 
-![Homepage](./assets/images/Homepage.png)
-![Main menu](./assets/images/MainMenu.png)
-![FAQS](./assets/images/FAQs.png)
-![Footer](./assets/images/Footer.png)
+![Homepage](./Homepage.png)
+![Main menu](./MainMenu.png)
+![FAQS](./FAQs.png)
+![Footer](./Footer.png)
 
 
 ---
